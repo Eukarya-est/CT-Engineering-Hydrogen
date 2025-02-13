@@ -61,7 +61,7 @@ function main {
             installProcess $i
         fi
     done
-    echo rm /usr/g/xuser/myconfig/options
+    rm /usr/g/xuser/myconfig/options
 }
 
 # Fin
