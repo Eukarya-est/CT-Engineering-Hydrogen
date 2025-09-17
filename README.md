@@ -1,4 +1,4 @@
-# hydrogen
+# CT-Engineering Hydrogen
 ## automated packages installation process for ct-automated-test with bash script
 
 It replace for packages installation process manually for ct-automated-test
